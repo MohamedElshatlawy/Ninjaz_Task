@@ -1,5 +1,5 @@
-## Wtheq POC
-  This is a POC for ecommerce application connected to firebase remote config, has local database and realtime ads
+## Ninjaz Task
+  This is a POC for social application connected to rest api, has local database and realtime ads
 
 # Getting Started
 - These instructions will help you get a copy of the project up and running on your local machine for development and testing purposes.
@@ -16,7 +16,7 @@ Clone this repository:
 
 # shell
   Copy code
-  git clone https://github.com/MohamedElshatlawy/wtheq
+  git clone https://github.com/MohamedElshatlawy/Ninjaz_Task
   Change into the project directory:
 
 # shell
