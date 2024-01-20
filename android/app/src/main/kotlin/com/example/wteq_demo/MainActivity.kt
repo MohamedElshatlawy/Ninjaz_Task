@@ -1,4 +1,4 @@
-package com.example.ninjaz_task
+package com.example.ninjaz_demo
 
 import io.flutter.embedding.android.FlutterActivity
 
